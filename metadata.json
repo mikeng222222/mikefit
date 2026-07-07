@@ -1,0 +1,6 @@
+{
+  "name": "MIKEFIT",
+  "description": "High-voltage, brutalist fitness and gym landing page featuring raw industrial aesthetics, aggressive typography, interactive program planner, and a dynamic signup engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
